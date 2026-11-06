@@ -1,0 +1,6 @@
+# Keep inspection data local.
+*.csv
+*.xlsx
+*.xls
+*.zip
+.DS_Store
